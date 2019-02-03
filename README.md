@@ -1,6 +1,6 @@
 # Spark_AirQualityIndexClassification
 
-Introduction 
+## Introduction 
 
 Due to the rapid global Industrialization and urbanization process, environmental pollution issues such as air pollution have become more and more severe. The problem of air pollution is much severe in California.  Air quality forecasting is an effective way of protecting public health by providing an early warning against harmful air pollutants.
 
@@ -10,10 +10,11 @@ In this study, we focus on using Big Data technology (MongoDB, Apache Spark, AWS
 
 To achieve these, our study evaluated the Spark performance under different type of machine learning algorithm. We also compared the its performance with the similar processes being run on a local machine with PySpark (standalone) or with Python machine learning library Scikit-Learn. This would help us to determine which condition is beneficial to implement distributed systems for machine learning algorithm to achieve better computation efficiency.
  
-System Workflow 
+## System Workflow 
 
-For this study, the data science pipeline was designed around scalability, cloud resources, and distributed computing methods. In this case, we developed our pipeline by using Amazon Web Service (AWS), for AWS can provide high availability and scalability and makes its components including storage and processing engines to be compatible [20].  In general,  our preprocessed data was stored in AWS Simple Storage Service(S3) bucket, then data was transferred and loaded into the MongoDB on AWS Elastic Compute Cloud (EC2). Later, our data was processed using Apache Spark on AWS Elastic MapReduce (EMR).
+For this study, the data science pipeline was designed around scalability, cloud resources, and distributed computing methods. In this case, we developed our pipeline by using Amazon Web Service (AWS), for AWS can provide high availability and scalability and makes its components including storage and processing engines to be compatible.  In general,  our preprocessed data was stored in AWS Simple Storage Service(S3) bucket, then data was transferred and loaded into the MongoDB on AWS Elastic Compute Cloud (EC2). Later, our data was processed using Apache Spark on AWS Elastic MapReduce (EMR).
 
+![alt text](https://github.com/zhlli1/Spark_AirQualityIndexClassification/blob/master/workflow.png)
 
 To achieve this,  this project included the following files: 
 
