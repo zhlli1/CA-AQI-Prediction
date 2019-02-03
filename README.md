@@ -1,6 +1,6 @@
 # Spark_AirQualityIndexClassification
 
-## Introduction 
+## Problem Description
 
 Due to the rapid global Industrialization and urbanization process, environmental pollution issues such as air pollution have become more and more severe. The problem of air pollution is much severe in California.  Air quality forecasting is an effective way of protecting public health by providing an early warning against harmful air pollutants.
 
