@@ -1,0 +1,4 @@
+﻿Setting ,Tree,CPU-USER,CPU-SYS,CPU-TOTAL,WALL TIME,,Uniit :s
+Scikit-Learn,Tree = 10,23.1,0.566,23.7,24.2,,
+Scikit-Learn,Tree = 100,227,3.53,231,234,,
+Scikit-Learn,Tree = 500,1147,22.1,1169,1206,,

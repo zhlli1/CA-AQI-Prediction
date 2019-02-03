@@ -1,0 +1,3 @@
+﻿Setting ,Algorithm ,CPU-USER,CPU-SYS,CPU-TOTAL,WALL TIME,,Uniit :s
+Scikit-Learn,LogisticRegression,23.1,0.566,23.7,24.2,,
+Scikit-Learn,RandomForest(Tree=10),227,3.53,231,234,,

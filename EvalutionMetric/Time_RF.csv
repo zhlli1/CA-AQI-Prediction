@@ -1,0 +1,10 @@
+﻿Setting ,Tree,CPU-USER,CPU-SYS,CPU-TOTAL,WALL TIME, Unit Time :ms 
+PySpark(standalone),Tree = 10,154,94.5,249,1090000,
+PySpark(standalone),Tree = 100,193,122,315,1364000,
+PySpark(standalone),Tree = 500,,,,,
+EMR Cluster 8G,Tree = 10,60.4,2.35,62.7,27700,
+EMR Cluster 8G,Tree = 100,65.1,6.57,71.7,111000,
+EMR Cluster 8G,Tree = 500,118,10.5,129,527000,
+EMR Cluster 16G,Tree = 10,41,20,61,20800,
+EMR Cluster 16G,Tree = 100,44.9,23.8,68.7,73000,
+EMR Cluster 16G,Tree = 500,90.1,14,104,344000,

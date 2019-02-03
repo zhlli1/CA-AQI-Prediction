@@ -1,0 +1,9 @@
+﻿Algorithm ,Evaluation Metrics,Value ,,setting : EMR 8 G 
+LogisticRegression,Accuracy,0.717618,,
+RandomForest (Tree =10),Accuracy,0.806462,,
+RandomForest (Tree =100),Accuracy,0.807236,,
+RandomForest (Tree = 500),Accuracy,0.807257,,
+LogisticRegression,F1,0.6,,
+RandomForest (Tree =10),F1,0.790832486,,
+RandomForest (Tree =100),F1,0.791927372,,
+RandomForest (Tree = 500),F1,0.793603429,,

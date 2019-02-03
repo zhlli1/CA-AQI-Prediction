@@ -1,0 +1,7 @@
+﻿Setting ,Algorithm ,CPU-USER,CPU-SYS,CPU-TOTAL,WALL TIME, Unit : ms ,Tree = 10
+PySpark(standalone),LogisticRegression,194,148,341,1394000,,
+PySpark(standalone),RandomForest(Tree=10),154,94.5,249,1090000,,
+EMR Cluster 8G,LogisticRegression,66.7,10.9,77.6,193000,,
+EMR Cluster 8G,RandomForest(Tree=10),60.4,2.35,62.7,27700,,
+EMR Cluster 16G,LogisticRegression,70.5,22.7,93.3,304000,,
+EMR Cluster 16G,RandomForest(Tree=10),41,20,61,20800,,
