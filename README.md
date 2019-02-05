@@ -23,6 +23,7 @@ To achieve this,  this project included the following files:
 <li> LR_Sklearn.ipynb; implement Logistic Regression with Scikit-Learn </li>
 <li> RF_PySpark.ipynb; implement Random Forest Classification with Spark ML </li>
 <li> RF_SKlearn.ipynb; implement Random Forest Classification with Scikit-Learn</li>
+<li> data_query.ipynb; implement big query for data loading and data preprocessing </li>
 </ul>
 
 As for the evulation part, the EvalutionMetric Folder included the following files :
