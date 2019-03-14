@@ -1,4 +1,4 @@
-# Spark_AirQualityIndexClassification
+# California Air Quality Prediction
 
 ## Problem Description
 
