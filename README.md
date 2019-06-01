@@ -35,3 +35,5 @@ As for the evulation part, the EvalutionMetric Folder included the following fil
 <li> sklearn_Algorithm.csv; Comparison of different algorithms fit times for Cluster vs PySpark (standalone) </li>
 <li> accuracy_EMR.csv; implement Different algorithms fit times for Scikit-Learn</li>
 </ul>
+
+The full published paper can be found here: https://github.com/zhlli1/CA-AQI-Prediction/blob/master/CA_Air_Quality_Paper.pdf
